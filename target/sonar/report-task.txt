@@ -1,0 +1,6 @@
+projectKey=com.accenture.maven:mavenTree
+serverUrl=http://localhost:9000
+serverVersion=7.0.0.36138
+dashboardUrl=http://localhost:9000/dashboard/index/com.accenture.maven:mavenTree
+ceTaskId=AYPLz3eBEUx8PWp4jQmv
+ceTaskUrl=http://localhost:9000/api/ce/task?id=AYPLz3eBEUx8PWp4jQmv
